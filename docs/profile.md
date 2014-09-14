@@ -1,8 +1,8 @@
 <center>![Audrey 2](../pics/feedMe_logo.jpg) </center>
 
-Company name: feedMe
-Company slogan: See More
-Company interest: Music/mixed media content
+Company name: feedMe<br>
+Company slogan: See More<br>
+Company interest: Music/mixed media content<br>
 Company logo: <http://imgur.com/ssxCJqX>
 
 Name: Zack Hardy (<zhardy@umass.edu> or <zhardy177@gmail.com>)
