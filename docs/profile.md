@@ -40,7 +40,9 @@ Brief bio: I’m from Damariscotta, Maine. I’m a 4th year undergrad, double ma
 Name: Tengiz Vachnadze (<tvachnad@umass.edu>)
 
 Previous CS courses: 121 (Introduction to Problem Solving with Computers), 187 (Programming with Data Structures), 220 (Programming Methodology), 240 (Reasoning under Uncertainty), 250 (Computation).
+
 Courses Outside CS: Relativity, Introduction to Microeconomics.
+
 Brief bio: I'm a B.S in Computer Science, from Tbilisi, Georgia. I came to America for College. Most of my experience comes from what I've learned in the classes I listed above which is java and a little bit of c. I know the basics of html and not much beyond that, but I'm ready to learn. 
 
 Name: David Carlson (<dscarlso@umass.edu>)
