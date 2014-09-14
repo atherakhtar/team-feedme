@@ -1,4 +1,4 @@
-<center>![Audrey 2](http://imgur.com/ssxCJqX) </center>
+<center>![Audrey 2](../pics/feedMe_logo.jpg) </center>
 
 Company name: feedMe
 Company slogan: See More
